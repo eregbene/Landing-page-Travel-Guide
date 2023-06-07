@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple landing page for buddy GUide an ALX portfolio project build with React!!!.
+This project is a simple landing page for buddy GUide an ALX portfolio project build with React!!.
 
 
 ## Animation (onScroll)
